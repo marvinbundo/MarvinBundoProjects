@@ -1,1 +1,2 @@
 This is my second line.
+I added a new line.
